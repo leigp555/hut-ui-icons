@@ -1,5 +1,11 @@
 ## Hut-UI组件库的icon图标库
 
+#### features
+- 按需导入
+- typescript
+- 可调整填充颜色和大小
+- sass
+
 #### install
 
 - pnpm安装
@@ -20,7 +26,7 @@
 
 ```javascript
 <template>
-    <Icon_clock />
+    <Icon_clock fill="red" width="1em" height="1em"/>
 </template>
 
 <script>
