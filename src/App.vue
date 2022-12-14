@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div>xxx</div>
+  <div>test</div>
 </template>
 
 
